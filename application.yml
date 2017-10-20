@@ -1,0 +1,6 @@
+spring:
+  profiles: cloud
+  cloud:
+    config:
+      message: "HELLO SANYA!"
+
